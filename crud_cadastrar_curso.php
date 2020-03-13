@@ -1,0 +1,1 @@
+<?php require_once "includes/crud_cadastrar_curso.php" ?>
